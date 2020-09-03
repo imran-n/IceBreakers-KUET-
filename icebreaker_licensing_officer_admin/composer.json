@@ -1,0 +1,16 @@
+{
+    "name": "muimr/icebreaker_licensing_officer_admin",
+    "description": "This is a website of icebreaker drive dive project.",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Icebreaker",
+            "email": "icebreaker@kuet.ac.bd"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "5.0"
+    }
+}

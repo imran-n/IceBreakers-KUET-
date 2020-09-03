@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');  
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.formPage{
+    width: 320px;
+    height: 350px;
+   background-color: white;
+   margin-top: 160px;
+   border-radius: 2px;
+   -webkit-box-shadow: 0px 0px 13px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 13px 1px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 13px 1px rgba(0,0,0,0.75);
+}
+.form_access{
+    width: 280px;
+    padding-top: 25px;
+}
+.form_access h4{
+    float: left;
+    text-align: left;
+    padding-bottom: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.form_access input[type="submit"]{
+    background-color: #16213e;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sphrciheader{
+    float: center;
+  
+}
+
+.bmcjh{
+    border-radius: 0;
+    border: 0;
+}
+
+.register_newdriver{
+    width: 800px;
+    height: 480px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(204,196,204,1);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(204,196,204,1);
+    box-shadow: 0px 0px 5px 0px rgba(204,196,204,1);
+}
+
+.register_newdriver h3{
+    text-align: left;
+    padding-left: 30px;
+}
+.motionde{
+    width: 100%;
+    height: 270px;
+    background-color: #eee;
+    text-align: left;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 13px;
+    padding-top: 10px;
+}
+.driverState{
+    width: 100%;
+    height: 350px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(204,196,204,1);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(204,196,204,1);
+    box-shadow: 0px 0px 5px 0px rgba(204,196,204,1);
+    padding-left: 10px;
+    margin-top: 15px;
+}
+
+.driverState img{
+    width: 190px;
+    height: 190px;
+    border-radius: 100%;
+}
+.driverState p{
+    font-size: 13px;
+}
